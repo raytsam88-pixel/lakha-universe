@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./IMG_20260818_145911.png" width="350">
+</p>
+
+<h1 align="center">🌌 LAKHA UNIVERSE TEST</h1>
+
+<p align="center">
+  ⚡ TERMUX MULTI TOOL ⚡
+</p>
+
+
 # 🌌 LAKHA UNIVERSE TEST
 
 <p align="center">
