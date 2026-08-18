@@ -285,5 +285,3 @@ The developer is not responsible for misuse of this tool.
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 LAKHA UNIVERSE TEST — Termux Multi Tool
-
-**Bas bhai:** GitHub → `lakha-universe` → `README.md` → pura code paste → **Commit changes**. Phir repository open karoge to ye description automatically neeche ek proper page ki tarah dikhega.
